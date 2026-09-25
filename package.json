@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-gsa-calc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "GSA CALC+ ceiling labor rates — what vendors may charge per hour under GSA",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-6b8b77a731bd5c7422363412ae6f1bdf70fadd6b48733ab6cab10c69030d5013",
+    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
   }
 }
