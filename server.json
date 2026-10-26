@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/gsa-calc",
   "title": "Gsa Calc",
-  "description": "GSA CALC+ ceiling labor rates — what vendors may charge per hour under GSA",
-  "version": "0.1.2",
+  "description": "GSA CALC+ ceiling labor rates — what vendors may charge per hour under GSA schedule contracts, for…",
+  "version": "0.1.3",
   "websiteUrl": "https://pipeworx.io/packs/gsa-calc",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-gsa-calc",
